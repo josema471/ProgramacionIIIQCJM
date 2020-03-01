@@ -1,0 +1,6 @@
+E:\Pogramacion\ProgramacionIIIQCJM\practicando\practicando mis ejercicios\practicando mis ejercicios\bin\Debug\practicando mis ejercicios.exe.config
+E:\Pogramacion\ProgramacionIIIQCJM\practicando\practicando mis ejercicios\practicando mis ejercicios\bin\Debug\practicando mis ejercicios.exe
+E:\Pogramacion\ProgramacionIIIQCJM\practicando\practicando mis ejercicios\practicando mis ejercicios\bin\Debug\practicando mis ejercicios.pdb
+E:\Pogramacion\ProgramacionIIIQCJM\practicando\practicando mis ejercicios\practicando mis ejercicios\obj\Debug\practicando mis ejercicios.csprojAssemblyReference.cache
+E:\Pogramacion\ProgramacionIIIQCJM\practicando\practicando mis ejercicios\practicando mis ejercicios\obj\Debug\practicando mis ejercicios.exe
+E:\Pogramacion\ProgramacionIIIQCJM\practicando\practicando mis ejercicios\practicando mis ejercicios\obj\Debug\practicando mis ejercicios.pdb

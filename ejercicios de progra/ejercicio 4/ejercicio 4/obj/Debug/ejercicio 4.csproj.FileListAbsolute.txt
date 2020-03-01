@@ -1,0 +1,6 @@
+E:\Pogramacion\ProgramacionIIIQCJM\ejercicios de progra\ejercicio 4\ejercicio 4\bin\Debug\ejercicio 4.exe.config
+E:\Pogramacion\ProgramacionIIIQCJM\ejercicios de progra\ejercicio 4\ejercicio 4\bin\Debug\ejercicio 4.exe
+E:\Pogramacion\ProgramacionIIIQCJM\ejercicios de progra\ejercicio 4\ejercicio 4\bin\Debug\ejercicio 4.pdb
+E:\Pogramacion\ProgramacionIIIQCJM\ejercicios de progra\ejercicio 4\ejercicio 4\obj\Debug\ejercicio 4.csprojAssemblyReference.cache
+E:\Pogramacion\ProgramacionIIIQCJM\ejercicios de progra\ejercicio 4\ejercicio 4\obj\Debug\ejercicio 4.exe
+E:\Pogramacion\ProgramacionIIIQCJM\ejercicios de progra\ejercicio 4\ejercicio 4\obj\Debug\ejercicio 4.pdb
