@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F1F1A891-43A4-4E38-9E9A-3CEA12659004}</ProjectGuid>
+    <ProjectGuid>{B351BD18-B2D0-4C62-A194-DB2E94EF00D2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>alumnos_lista</RootNamespace>
-    <AssemblyName>alumnos lista</AssemblyName>
+    <RootNamespace>Ordenamiento_generico</RootNamespace>
+    <AssemblyName>Ordenamiento generico</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="alumno.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
