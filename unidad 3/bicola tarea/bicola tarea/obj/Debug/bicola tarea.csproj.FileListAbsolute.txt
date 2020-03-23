@@ -1,0 +1,6 @@
+E:\Pogramacion\ProgramacionIIIQCJM\unidad 3\bicola tarea\bicola tarea\bin\Debug\bicola tarea.exe.config
+E:\Pogramacion\ProgramacionIIIQCJM\unidad 3\bicola tarea\bicola tarea\bin\Debug\bicola tarea.exe
+E:\Pogramacion\ProgramacionIIIQCJM\unidad 3\bicola tarea\bicola tarea\bin\Debug\bicola tarea.pdb
+E:\Pogramacion\ProgramacionIIIQCJM\unidad 3\bicola tarea\bicola tarea\obj\Debug\bicola tarea.csprojAssemblyReference.cache
+E:\Pogramacion\ProgramacionIIIQCJM\unidad 3\bicola tarea\bicola tarea\obj\Debug\bicola tarea.exe
+E:\Pogramacion\ProgramacionIIIQCJM\unidad 3\bicola tarea\bicola tarea\obj\Debug\bicola tarea.pdb
