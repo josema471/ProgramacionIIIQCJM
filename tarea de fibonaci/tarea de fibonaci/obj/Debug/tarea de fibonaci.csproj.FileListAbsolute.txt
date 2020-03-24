@@ -1,0 +1,6 @@
+E:\Pogramacion\ProgramacionIIIQCJM\tarea de fibonaci\tarea de fibonaci\bin\Debug\tarea de fibonaci.exe.config
+E:\Pogramacion\ProgramacionIIIQCJM\tarea de fibonaci\tarea de fibonaci\bin\Debug\tarea de fibonaci.exe
+E:\Pogramacion\ProgramacionIIIQCJM\tarea de fibonaci\tarea de fibonaci\bin\Debug\tarea de fibonaci.pdb
+E:\Pogramacion\ProgramacionIIIQCJM\tarea de fibonaci\tarea de fibonaci\obj\Debug\tarea de fibonaci.csprojAssemblyReference.cache
+E:\Pogramacion\ProgramacionIIIQCJM\tarea de fibonaci\tarea de fibonaci\obj\Debug\tarea de fibonaci.exe
+E:\Pogramacion\ProgramacionIIIQCJM\tarea de fibonaci\tarea de fibonaci\obj\Debug\tarea de fibonaci.pdb
