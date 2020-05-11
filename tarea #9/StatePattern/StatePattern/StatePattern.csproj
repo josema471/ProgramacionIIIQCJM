@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="E:\Pogramacion\ProgramacionIIIQCJM\Program #9 tarea.cs" Link="Program #9 tarea.cs" />
+  </ItemGroup>
+
+</Project>
