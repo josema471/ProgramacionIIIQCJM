@@ -1,0 +1,6 @@
+G:\Programacion\ProgramacionIIIMLYL\Unidad4\Universidad - Fabrica de Aulas\Universidad - Fabrica de Aulas\bin\Debug\Universidad - Fabrica de Aulas.exe.config
+G:\Programacion\ProgramacionIIIMLYL\Unidad4\Universidad - Fabrica de Aulas\Universidad - Fabrica de Aulas\bin\Debug\Universidad - Fabrica de Aulas.exe
+G:\Programacion\ProgramacionIIIMLYL\Unidad4\Universidad - Fabrica de Aulas\Universidad - Fabrica de Aulas\bin\Debug\Universidad - Fabrica de Aulas.pdb
+G:\Programacion\ProgramacionIIIMLYL\Unidad4\Universidad - Fabrica de Aulas\Universidad - Fabrica de Aulas\obj\Debug\Universidad - Fabrica de Aulas.csprojAssemblyReference.cache
+G:\Programacion\ProgramacionIIIMLYL\Unidad4\Universidad - Fabrica de Aulas\Universidad - Fabrica de Aulas\obj\Debug\Universidad - Fabrica de Aulas.exe
+G:\Programacion\ProgramacionIIIMLYL\Unidad4\Universidad - Fabrica de Aulas\Universidad - Fabrica de Aulas\obj\Debug\Universidad - Fabrica de Aulas.pdb

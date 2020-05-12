@@ -1,0 +1,6 @@
+G:\Programacion\ProgramacionIIIMLYL\Unidad3\Colas\Bicola\Bicola\bin\Debug\Bicola.exe.config
+G:\Programacion\ProgramacionIIIMLYL\Unidad3\Colas\Bicola\Bicola\bin\Debug\Bicola.exe
+G:\Programacion\ProgramacionIIIMLYL\Unidad3\Colas\Bicola\Bicola\bin\Debug\Bicola.pdb
+G:\Programacion\ProgramacionIIIMLYL\Unidad3\Colas\Bicola\Bicola\obj\Debug\Bicola.csprojAssemblyReference.cache
+G:\Programacion\ProgramacionIIIMLYL\Unidad3\Colas\Bicola\Bicola\obj\Debug\Bicola.exe
+G:\Programacion\ProgramacionIIIMLYL\Unidad3\Colas\Bicola\Bicola\obj\Debug\Bicola.pdb
