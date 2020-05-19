@@ -1,0 +1,7 @@
+C:\Users\OMEN\Desktop\Pregunta 2\Pregunta 2\bin\Debug\Pregunta 2.exe.config
+C:\Users\OMEN\Desktop\Pregunta 2\Pregunta 2\bin\Debug\Pregunta 2.exe
+C:\Users\OMEN\Desktop\Pregunta 2\Pregunta 2\bin\Debug\Pregunta 2.pdb
+C:\Users\OMEN\Desktop\Pregunta 2\Pregunta 2\obj\Debug\Pregunta 2.csprojAssemblyReference.cache
+C:\Users\OMEN\Desktop\Pregunta 2\Pregunta 2\obj\Debug\Pregunta 2.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\Pregunta 2\Pregunta 2\obj\Debug\Pregunta 2.exe
+C:\Users\OMEN\Desktop\Pregunta 2\Pregunta 2\obj\Debug\Pregunta 2.pdb

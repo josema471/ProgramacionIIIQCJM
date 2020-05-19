@@ -1,0 +1,6 @@
+C:\Users\Jose Manuel\source\repos\parcial 2 de jose\parcial 2 de jose\bin\Debug\parcial 2 de jose.exe.config
+C:\Users\Jose Manuel\source\repos\parcial 2 de jose\parcial 2 de jose\bin\Debug\parcial 2 de jose.exe
+C:\Users\Jose Manuel\source\repos\parcial 2 de jose\parcial 2 de jose\bin\Debug\parcial 2 de jose.pdb
+C:\Users\Jose Manuel\source\repos\parcial 2 de jose\parcial 2 de jose\obj\Debug\parcial 2 de jose.csprojAssemblyReference.cache
+C:\Users\Jose Manuel\source\repos\parcial 2 de jose\parcial 2 de jose\obj\Debug\parcial 2 de jose.exe
+C:\Users\Jose Manuel\source\repos\parcial 2 de jose\parcial 2 de jose\obj\Debug\parcial 2 de jose.pdb
