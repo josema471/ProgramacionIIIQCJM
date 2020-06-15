@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xh6zbrdVxqaEAEavTanPIKiYMk7NumlZu9XFGprMAD/DDdHJkPcn6NPCI3tJuGiZt5nxLQV7fPHTS28D06kksQ==",
+  "success": true,
+  "projectFilePath": "D:\\programacion\\servicio\\clienteCinclono\\clienteCinclono\\clienteCinclono.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DANIEL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
