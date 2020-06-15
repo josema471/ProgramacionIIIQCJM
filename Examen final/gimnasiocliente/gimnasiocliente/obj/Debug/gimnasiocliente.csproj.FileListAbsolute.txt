@@ -1,0 +1,6 @@
+E:\Pogramacion\ProgramacionIIIQCJM\Examen final\gimnasiocliente\gimnasiocliente\bin\Debug\gimnasiocliente.exe.config
+E:\Pogramacion\ProgramacionIIIQCJM\Examen final\gimnasiocliente\gimnasiocliente\bin\Debug\gimnasiocliente.exe
+E:\Pogramacion\ProgramacionIIIQCJM\Examen final\gimnasiocliente\gimnasiocliente\bin\Debug\gimnasiocliente.pdb
+E:\Pogramacion\ProgramacionIIIQCJM\Examen final\gimnasiocliente\gimnasiocliente\obj\Debug\gimnasiocliente.csprojAssemblyReference.cache
+E:\Pogramacion\ProgramacionIIIQCJM\Examen final\gimnasiocliente\gimnasiocliente\obj\Debug\gimnasiocliente.exe
+E:\Pogramacion\ProgramacionIIIQCJM\Examen final\gimnasiocliente\gimnasiocliente\obj\Debug\gimnasiocliente.pdb

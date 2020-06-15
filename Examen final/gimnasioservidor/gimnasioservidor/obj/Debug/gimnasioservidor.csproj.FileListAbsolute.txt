@@ -1,0 +1,6 @@
+E:\Pogramacion\ProgramacionIIIQCJM\Examen final\gimnasioservidor\gimnasioservidor\bin\Debug\gimnasioservidor.exe.config
+E:\Pogramacion\ProgramacionIIIQCJM\Examen final\gimnasioservidor\gimnasioservidor\bin\Debug\gimnasioservidor.exe
+E:\Pogramacion\ProgramacionIIIQCJM\Examen final\gimnasioservidor\gimnasioservidor\bin\Debug\gimnasioservidor.pdb
+E:\Pogramacion\ProgramacionIIIQCJM\Examen final\gimnasioservidor\gimnasioservidor\obj\Debug\gimnasioservidor.csprojAssemblyReference.cache
+E:\Pogramacion\ProgramacionIIIQCJM\Examen final\gimnasioservidor\gimnasioservidor\obj\Debug\gimnasioservidor.exe
+E:\Pogramacion\ProgramacionIIIQCJM\Examen final\gimnasioservidor\gimnasioservidor\obj\Debug\gimnasioservidor.pdb

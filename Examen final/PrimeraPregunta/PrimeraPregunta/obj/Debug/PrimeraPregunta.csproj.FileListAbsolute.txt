@@ -1,0 +1,6 @@
+E:\Pogramacion\ProgramacionIIIQCJM\Examen final\PrimeraPregunta\PrimeraPregunta\bin\Debug\PrimeraPregunta.exe.config
+E:\Pogramacion\ProgramacionIIIQCJM\Examen final\PrimeraPregunta\PrimeraPregunta\bin\Debug\PrimeraPregunta.exe
+E:\Pogramacion\ProgramacionIIIQCJM\Examen final\PrimeraPregunta\PrimeraPregunta\bin\Debug\PrimeraPregunta.pdb
+E:\Pogramacion\ProgramacionIIIQCJM\Examen final\PrimeraPregunta\PrimeraPregunta\obj\Debug\PrimeraPregunta.csprojAssemblyReference.cache
+E:\Pogramacion\ProgramacionIIIQCJM\Examen final\PrimeraPregunta\PrimeraPregunta\obj\Debug\PrimeraPregunta.exe
+E:\Pogramacion\ProgramacionIIIQCJM\Examen final\PrimeraPregunta\PrimeraPregunta\obj\Debug\PrimeraPregunta.pdb
